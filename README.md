@@ -13,4 +13,6 @@ This is an effort to reimplement ps, lsof and netstat as a Linux kernel module.
 - [ ] Write documentation 
 - [ ] Write userspace command 
 
+# References
+[Proc filesystem](https://devarea.com/linux-kernel-development-creating-a-proc-file-and-interfacing-with-user-space/#.YS1Fso4zaUk)
 
