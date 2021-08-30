@@ -7,6 +7,7 @@ This is an effort to reimplement ps, lsof and netstat as a Linux kernel module.
 # TODO 
 
 - [x] First tour of related kernel data structures
+- [ ] Check locks and related stuff
 - [ ] Improve networking part
 - [ ] Create entry in procfs
 - [ ] Write documentation 
